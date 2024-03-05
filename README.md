@@ -92,7 +92,7 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
  Profit prediction:
-
+![](a.png)
 ![download](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/72c751de-9d20-419c-908d-f9d68e91d28e)
 
 Function:
